@@ -32,7 +32,7 @@ h3{font-family: 'Times New Roman', Times, serif;
     font-size: 15px;}
 
 .birthday-quote-1, .birthday-quote-2, .birthday-quote-3, .birthday-quote-4, .birthday-quote-5, .birthday-quote-6 {
-    font-size: 30px;
+    font-size: 15px;
     font-style: italic;
     overflow: hidden;
     animation: typewriter 2s steps(40) forwards;
